@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Chào tình yêuuuu",
-    introTitle: 'TNâm',
+    introTitle: 'Nâm',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu iemm <33',
     btnNo: 'Ghét iem >:(',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Chồng muốn lói gì ạaa',
     btnReply: 'Gửi cho chồng tớ <3',
     reply: 'Yêu vợ',
     mess: 'Hehe yêu chồngggg 😘😘',
